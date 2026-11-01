@@ -11,6 +11,12 @@
       "displayName": "BK Law Skills",
       "source": "./bk",
       "description": "Bankruptcy practice skills for Claude. Requires a BK Law Skills account."
+    },
+    {
+      "name": "bk-staging",
+      "displayName": "BK Law Skills (staging)",
+      "source": "./bk-staging",
+      "description": "Test version that talks to the staging server. For BK Law Skills staff only; firms should install bk."
     }
   ]
 }

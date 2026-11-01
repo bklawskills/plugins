@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bk-staging": {
+      "type": "http",
+      "url": "https://staging.bklawskills.com/mcp"
+    }
+  }
+}

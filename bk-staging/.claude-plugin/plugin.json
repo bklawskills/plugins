@@ -1,0 +1,11 @@
+{
+  "name": "bk-staging",
+  "displayName": "BK Law Skills (staging)",
+  "version": "0.1.0",
+  "description": "Test version of BK Law Skills that talks to the staging server. For BK Law Skills staff only.",
+  "author": {
+    "name": "BK Law Skills",
+    "url": "https://bklawskills.com"
+  },
+  "homepage": "https://bklawskills.com"
+}
