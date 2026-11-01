@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bk": {
+      "type": "http",
+      "url": "https://app.bklawskills.com/mcp"
+    }
+  }
+}

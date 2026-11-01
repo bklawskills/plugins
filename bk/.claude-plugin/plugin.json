@@ -1,0 +1,11 @@
+{
+  "name": "bk",
+  "displayName": "BK Law Skills",
+  "version": "0.1.0",
+  "description": "Bankruptcy practice skills for Claude. Requires a BK Law Skills account.",
+  "author": {
+    "name": "BK Law Skills",
+    "url": "https://bklawskills.com"
+  },
+  "homepage": "https://bklawskills.com"
+}

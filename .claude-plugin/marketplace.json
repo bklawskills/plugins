@@ -1,0 +1,16 @@
+{
+  "name": "bklawskills",
+  "owner": {
+    "name": "BK Law Skills",
+    "url": "https://bklawskills.com"
+  },
+  "description": "Bankruptcy practice skills for Claude: 341 meeting emails, client document requests, and more.",
+  "plugins": [
+    {
+      "name": "bk",
+      "displayName": "BK Law Skills",
+      "source": "./bk",
+      "description": "Bankruptcy practice skills for Claude. Requires a BK Law Skills account."
+    }
+  ]
+}
